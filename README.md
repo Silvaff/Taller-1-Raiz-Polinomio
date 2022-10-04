@@ -1,4 +1,4 @@
-<h1>Instrucciones para compilar y ejecutar:</h1>
+<h1>Instrucciones para compilar y ejecutar</h1>
 
 1- Para compilar el programa se debe utilizar el comando make desde un terminal ubicado en la carpeta del proyecto.
 
@@ -20,3 +20,14 @@ El codigo fue realizado utilizando como base un ejemplo dado por el profesor Seb
     2- https://www.youtube.com/watch?v=_r7i5X0rXJk
     3- https://paginas.matem.unam.mx/pderbf/images/mprogintc++.pdf
  
+<h1>Integrantes</h1>
+
+  Matias Silva Farias
+  
+  Matias Alarcon Guajardo
+  
+  Juan Pablo Gonzalez
+  
+  Karina Sanchez Pino
+  
+  Ismael Jara Gutierrez
