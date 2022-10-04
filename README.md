@@ -1,4 +1,4 @@
-Instrucciones para compilar y ejecutar:
+<h1>Instrucciones para compilar y ejecutar:</h1>
 
 1- Para compilar el programa se debe utilizar el comando make desde un terminal ubicado en la carpeta del proyecto.
 
@@ -12,8 +12,11 @@ Instrucciones para compilar y ejecutar:
 
     ./salida x**3+x-1 2 
  
+<h1>Referencias</h1>
+
 El codigo fue realizado utilizando como base un ejemplo dado por el profesor Sebastian Salazar en clases, tambien se utilizo informacion encontrada en paginas web, a continuacion se adjuntan los enlaces de nuestras referencias:
 
     1- https://github.com/sebasalazar/utem-polinomio-app
     2- https://www.youtube.com/watch?v=_r7i5X0rXJk
+    3- https://paginas.matem.unam.mx/pderbf/images/mprogintc++.pdf
  
