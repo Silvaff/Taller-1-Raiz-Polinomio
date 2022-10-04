@@ -2,7 +2,7 @@
 
 1- Para compilar el programa se debe utilizar el comando make desde un terminal ubicado en la carpeta del proyecto.
 
-2- Para ejecutar el programa se debe ingresar el comando ./salida [polinomio] [valor], los datos deben ser ingresados tomando en cuenta los siguientes puntos: 
+2- Para ejecutar el programa se debe ingresar el comando ./salida [polinomio] [valor] desde un terminal ubicado en la carpeta del proyecto, los datos deben ser ingresados tomando en cuenta los siguientes puntos: 
 
    a) Los signos de elevado se representaran con dos **, ademas el polinomio debe estar escrito sin espacios de lo contrario se mostrara una advertencia       de   que los datos estan mal ingresados.
   
